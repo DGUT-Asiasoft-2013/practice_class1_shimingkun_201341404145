@@ -19,7 +19,12 @@ public class RegisterActivity extends Activity {
 		fragInputCellPassword= (SimpleTextInputcCellFragment) getFragmentManager().findFragmentById(R.id.input_password);
 		fragInputCellPasswordRepeat =  (SimpleTextInputcCellFragment) getFragmentManager().findFragmentById(R.id.input_passoword_repeate);
 		
+		
+		
 	}
+	
+	@Override
+
 	
 	protected void onResume(){
 		super.onResume();

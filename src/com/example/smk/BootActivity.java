@@ -15,9 +15,7 @@ public class BootActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
 		setContentView(R.layout.activity_boot);
-		
-		
-		
+			
 	}
 	
 	@Override
@@ -28,9 +26,9 @@ public class BootActivity extends Activity {
 		handler.postDelayed(new Runnable(){
 			private int abcd= 0;
 
+			
 			public void run(){
-				startLoginActivity();
-				
+				startLoginActivity();			
 			}
 		}, 1000);
 		
