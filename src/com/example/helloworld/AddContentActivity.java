@@ -11,6 +11,7 @@ public class AddContentActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_add_content);
 			
+		
 	}
 	@Override
 	public void onBackPressed() {
