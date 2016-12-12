@@ -23,6 +23,7 @@ public class BootActivity extends Activity {
 
 	}
 
+	
 	@Override
 	protected void onResume() {
 		super.onResume();
