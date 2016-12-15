@@ -7,7 +7,6 @@ import com.example.helloworld.fragments.pages.SearchPageFragment;
 import com.example.helloworld.fragments.widgets.MainTabbarFragment;
 import com.example.helloworld.fragments.widgets.MainTabbarFragment.OnNewClickedListener;
 import com.example.helloworld.fragments.widgets.MainTabbarFragment.OnTabSelectedListener;
-
 import android.app.Activity;
 import android.app.Fragment;
 import android.content.Intent;

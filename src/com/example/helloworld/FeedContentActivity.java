@@ -2,7 +2,6 @@ package com.example.helloworld;
 
 import java.io.IOException;
 import java.util.List;
-
 import com.example.helloworld.api.Server;
 import com.example.helloworld.api.entity.Article;
 import com.example.helloworld.api.entity.Comment;
